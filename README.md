@@ -41,5 +41,4 @@ değerinin asimptotik üst sınırı O(n²) değerini verir.
 4. [2,3,4,```5```,7,9,8,15,6]
 
 ***
-[Halil Onur KARAPINAR](https://github.com/HalilOnurKARAPINAR)  
 [Patika.dev](https://app.patika.dev/halilonur)
